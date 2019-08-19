@@ -26,10 +26,12 @@ github_username:  arnab20ghosh
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
   # Enable or disable the site search
 search_enabled: true
