@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 50950889988947a02b800a4ad855d8c2bc29fc6b
 *.gem
 .bundle
 .sass-cache
 _site
 Gemfile.lock
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+>>>>>>> 50950889988947a02b800a4ad855d8c2bc29fc6b
