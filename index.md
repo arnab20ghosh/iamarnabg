@@ -3,19 +3,24 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Home 
+title: Home
 ---
 
 # Welcome to the profile of Arnab Ghosh
 
 Hello and welcome to the detailed curriculum vitae of Arnab Ghosh.
-This CV is built with Jekyll using markdown files and hosted on Git.<b>
+This CV is built with Jekyll using Markdown files and hosted on Github pages.<b>
 
-This site is built on : https://github.com/pmarsceill/just-the-docs
-
+This site is built on using the [Just-the-docs](https://github.com/pmarsceill/just-the-docs) theme.  
 
 ### _How can you navigate on this site?_
 
-You can choose to click on the navigation window on the left to read about the section that might interest you. <b>
+You can choose to select an option from the Menu to read about the section that interests you.
 
-Or, search in the bar on the top to look for something specific.
+<b>
+
+![](/images/Menu.PNG)
+
+<b>
+
+Or, search for keywords on the top to look for something specific.
