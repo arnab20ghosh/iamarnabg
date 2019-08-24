@@ -9,13 +9,13 @@ title: Home
 # Welcome to the profile of Arnab Ghosh
 
 Hello and welcome to the detailed curriculum vitae of Arnab Ghosh.
-This CV is built with Jekyll using Markdown files and hosted on Github pages.<b>
+This CV is built with **Jekyll** using **Markdown** files and hosted on **Github** pages.<b>
 
 This site is built on using the [Just-the-docs](https://github.com/pmarsceill/just-the-docs) theme.  
 
-### _How can you navigate on this site?_
+### _How can you navigate through this site?_
 
-You can choose to select an option from the Menu to read about the section that interests you.
+You can select an option from the **Menu** to read about the section.
 
 <b>
 
@@ -23,4 +23,4 @@ You can choose to select an option from the Menu to read about the section that 
 
 <b>
 
-Or, search for keywords on the top to look for something specific.
+Or, in the **Search** bar, on top of this page, type in the skills, tool names, or keywords if you are looking for something specific.

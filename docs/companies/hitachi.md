@@ -5,14 +5,14 @@ nav_order: 1
 parent: Companies
 permalink: /hitachi_vantara/
 ---
-# Hitachi Vantara, Pune
+# Hitachi Vantara
 
-## About the Organization
+### ***About the Organization***
 
-## About the project
+### ***About the project***
 
-## Deliverables
+### ***Deliverables***
 
-## My job
+### ***My job***
 
-## Roles and responsibilities
+### ***Roles and responsibilities***

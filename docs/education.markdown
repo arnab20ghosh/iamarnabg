@@ -1,25 +1,31 @@
 ---
 layout: default
 title: Education and Certifications
-nav_order: 2
+nav_order: 3
 permalink: /education/
 ---
 # Education and Certifications
 
-## Education
+### ***Education***
 
 A mechanical engineer from the University of Pune with 65.2%.
 
-### Why mechanical engineering?
+### ***Certifications***
 
-## Certifications
+Following are the certifications that I possess and can share if required.
 
-#### Computer
+### ***Cloud Technologies***
 
-C Language
+​		AWS Cloud Practitioner - 2019
 
-#### CAD
+### ***Computer languages***
 
-CATIA V6 Mechanical Design
-CATIA V5 Part Design Essentials
-Pro-E Wildfire 5.0
+​		C - 2013
+
+​		C++ - 2014
+
+### ***CAD***
+
+​		CATIA V6 Mechanical Design  - 2012
+​		CATIA V5 Part Design Essentials  - 2013
+​		Pro-E Wildfire 5.0 - 2010

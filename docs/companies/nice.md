@@ -5,14 +5,14 @@ nav_order: 2
 parent: Companies
 permalink: /NICE_Interactive/
 ---
-# Nice Interactive Systems, Pune
+# Nice Interactive Systems
 
-## About the Organization
+### ***About the Organization***
 
-## About the project
+### ***About the project***
 
-## Deliverables
+### ***Deliverables***
 
-## My job
+### ***My job***
 
-## Roles and responsibilities
+### ***Roles and responsibilities***

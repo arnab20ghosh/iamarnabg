@@ -2,7 +2,7 @@
   "0": {
     "id": "0",
     "title": "3DPLM Software Solutions",
-    "content": "3DPLM Solutions (Now Dassault Systemmes), Pune About the Organization About the project Deliverables My job Roles and responsibilities",
+    "content": "3DPLM Solutions ( Dassault Systemmes) About the Organization About the project Deliverables My job Roles and responsibilities · Interviewing SMEs to understand a new workbench and its workflow · Creating courses for international audiences from different geographies · Defining the course objectives with the help of SMEs · Updating old courses with new highlight of the latest release · Creating intuitive and attractive PPTs for a better learning experience · Storyboarding a course (Creating a TOC with a summary of content on each slide) · Developing courses for multiple delivery format like ILT, CBT and WBT · Writing courses that comply to the Dassault writing standards (like MSTP) · Creating videos and simulations using Camtasia and Captivate · Developing courses that adhere to the ADDIE model of Instructional Design · Designing exercises for learning reinforcement · Creating assessments for performance evaluation of the students",
     "url": "http://localhost:4000/3DPLM_solutions/",
     "relUrl": "/3DPLM_solutions/"
   },
@@ -16,79 +16,93 @@
   "2": {
     "id": "2",
     "title": "Professional Skills",
-    "content": "Skills • Authoring tools: Robohelp, Framemaker, Fasthelp, Madcap Flare, Typora (Markdown). • Graphic tools: SnagIT, PickPic (freeware) • Source control: Perforce SCM, Tortoise SVN, TFS, Github • Markup Language: XML, Markdown, HTML, CSS. • Video &amp; Simulation: Captivate, Camtasia • Language: C • Content Management System: Wordpress • Cloud technology: AWS Cloud Practitioner",
+    "content": "Professional Skills Following are the tools that I have used and gather experience over the period in time. All tools that I have used I have learnt by my own. I am not scared to learn new tools to deliver content. Authoring Tool Extent of use Robohelp - Used it for 3. 5 years.- Exported .CHM files and webhelp for packaging with the product. FrameMaker - Used it for personal projects.- Have a good knowledge about the tools in the product. Fasthelp (chm export tool) - Used for a year to deliver .CHM files. Madcap Flare - Used it for 1.5 years.- Delivered PDF files and webhelp. Typora (Markdown) - Using it currently, have been using it for more than a month.- Using it in the GitHub documentation project. Atom (Markdown Project) - Using it currently for handling GitHub documentation project. Graphic Tool Extent of use SnagIT - Used it for 4 years.- Used for capturing and modifying screenshots.- Used for modifying old image to match with latest release. PicPick (freeware) - Used it for 3 years.- This tool is similar to SnagIT, with lesser feature than SnagIT. Source Control Extent of use Perforce SCM - Used it for 2 years Tortoise SVN - Used it for 2 years TFS - Used for a year.- Used it for maintaining documentation projects. GitHub - Using currently - Using GitHub pages to publish this site. Markup Language Extent of use XML - Modified the .xml files to manipulate outputs in Robohelp. Markdown - Using it for creating help currently HTML - Edited and modified .html files to manipulate outputs in Robohelp. CSS - Created .css files for the project in Robohelp.- Used .css file as a template for the project. Video and Simulation Extent of use Captivate - Used for creating simulation for explaining complex ideas. - Created simulations that would require user input to reach the next step. Camtasia - Created videos for explaining complex ideas. Language Extent of use C - Programmed in college to solve numerical methods problems. Content Management Systems Extent of use Wordpress - Using it for maintaining my blog site. - Used it set up the blog site. Cloud Technology Extent of use AWS Cloud Practitioner - Completed certification for working on the products that Hitachi Vantara works on.",
     "url": "http://localhost:4000/skills/",
     "relUrl": "/skills/"
   },
   "3": {
     "id": "3",
     "title": "About me",
-    "content": "About me Hello and welcome to the detailed curriculum vitae of Arnab Ghosh. This CV is built with Jekyll using markdown files and hosted on Git.",
+    "content": "About me Prologue Hello and welcome, My name is Arnab Ghosh, I am a mechanical engineer by education and a technical writer by profession. I would not say that I chose technical writing because I had a huge passion for writing, but this is something that I was given an option of and I chose it without any hesitation. Eventually, I realized that I was quite enjoyed being in the end-user perspective of every product. Let me give you a brief about my journey. I started of my career on in a mechanical production floor, where I would ensure the quality of the jobs produced on the line. Although this was a short stint of two months, I still take pride in mentioning this in my career, because every job has taught me some good lessons and it helped me grow not only in career, but also as a person. Then I started working as a Design Engineer on CAD products. Here, I would design special purpose machine (SPM) on Solidworks. This was a half year journey. The next job was my breakthrough in the writing career. I started working as a Courseware Developer, or Instructional Designer, and I was writing courses on CAD products that I was earlier working as a Design Engineer. Initially, I would use the SME approach to build the courses, and try to make the courses more technically sound and accurate. Eventually, I realized that the technical content, if not put together properly would also make no sense to its end users. That is when I came across some instructional design philosophies like ADDIE, and Gagne’s 9 events. While I was developing courses, we followed a style guide for writing. Earlier, it made no sense to me. The question of being monotonous always struck me, as to why do we repeat the same structure of sentence, does the reader not get bored by reading the same type of sentence again and again. Later, with experience it became clear that the reader is not reading the content for fun or as a hobby, but to learn something, and having the same sentence structure will help the readers to grasp the ideas at a faster pace. This is where I started following the intricacies of writing. I would ask our editor the reason for the comments on my written topics. And, it later became clear that I would like to move as a full-time technical writer. In my next job, I started off as a Lead of Trainings and Tools and by the end of 3rd year in the company I was leading a team of writer that has one tech writer and one translator. So, the story goes in this manner, I was recruited as a course writing expert who would elevate the training methods running in the company and also write some good quality courses. Sounds like a good plan doesn’t it? But like Barney Stinson says,”You wanna make God laugh, tell him your plans, right?” And it all came down after the lead technical writer quit the company. I was just 2 months old in the company and someone who knew some amount of writing. I was offered (PS: asked to take up) the role and I took it up without a second thought and never looked back. Since then tech writing became my full job and I was rolling on a roller coaster. In the beginning, it felt quite different from that of the old Instructional Design approach, but later I got used to delivering information than concentrating on how the information is delivered, as here everything was written. But, a mixed approach for writing instructions has always helped me deliver a better content, and that is probably the reason why more and more help sites are coming up with intro videos and infographics for a better was of putting the idea. That is a gist of how my experience sounds, thank you for giving your valuable time to read it. If you just scraped through, no worries you have not missed anything, just click the links to in the table of contents (TOC). To know more about the organizations that I worked for, Organizations. To see roles that I played, see Roles and responsibilities. My objective, or goal Ineffective communication has always been a sore to my eyes and I cannot stand it. In all the projects that I have done my objective has been to put myself in the user’s shoe and try to do anything that I am writing about. If I succeed in completing a task then I am doing a good job, otherwise the topic needs to be relooked. With my technical writing skills, my goal has been to create an easy-to-understand content with enough information to give confidence to its users on using a product.",
     "url": "http://localhost:4000/about/",
     "relUrl": "/about/"
   },
   "4": {
     "id": "4",
     "title": "APT Global",
-    "content": "Advanced Process Technology, Pune About the Organization About the project Deliverables My job Roles and responsibilities",
+    "content": "Advanced Process Technology About the Organization About the project Deliverables My job Roles and responsibilities",
     "url": "http://localhost:4000/apt_global/",
     "relUrl": "/apt_global/"
   },
   "5": {
     "id": "5",
     "title": "Companies",
-    "content": "Organizations This is the list of companies that I have worked with over the period in time. Following are the companies starting with the current one first. Organization Time period Position HITACHI VANTARA 3rd Jun 2019 till Present Senior Technical Writer NICE INTERACTIVE SYSTEMS 2nd May 2018 to 30th May 2019 Specialist Technical Writer NEILSOFT LIMITED 8th Sep 2014 to 27th Apr 2018 Lead Technical Writer 3DPLMSOFTWARE SOLUTIONS LTD, NOW DASSAULT SYSTEMMES 13th Jun 2011 to 5th Sep 2014 Senior Courseware Developer (Course Writer) ADVANCED PROCESS TECHNOLOGY 3rd Nov 2010 to 11th Jun 2011 Design Engineer",
+    "content": "Organizations This is the list of companies that I have worked with over the period in time. Following are the companies starting with the current one first. Organization Position Duration HITACHI VANTARA Senior Technical Writer 3rd Jun 2019 till Present NICE INTERACTIVE SYSTEMS Specialist Technical Writer 2nd May 2018 to 30th May 2019 NEILSOFT LIMITED Lead Technical Writer 8th Sep 2014 to 27th Apr 2018 3DPLMSOFTWARE SOLUTIONS LTD Senior Courseware Developer/ Instructional Designer 13th Jun 2011 to 5th Sep 2014 ADVANCED PROCESS TECHNOLOGY Mechanical Design Engineer 3rd Nov 2010 to 11th Jun 2011",
     "url": "http://localhost:4000/Organizations/",
     "relUrl": "/Organizations/"
   },
   "6": {
     "id": "6",
     "title": "Contact me",
-    "content": "Contact me Linkedin github blog: www.mechmonologues.com facebook:www.facebook.com/arnab20ghosh",
+    "content": "Contact me Linkedin: github: blog: www.mechmonologues.com facebook:www.facebook.com/arnab20ghosh",
     "url": "http://localhost:4000/contact/",
     "relUrl": "/contact/"
   },
   "7": {
     "id": "7",
     "title": "Education and Certifications",
-    "content": "Education and Certifications Education A mechanical engineer from the University of Pune with 65.2%. Why mechanical engineering? Certifications Computer C Language CAD CATIA V6 Mechanical Design CATIA V5 Part Design Essentials Pro-E Wildfire 5.0",
+    "content": "Education and Certifications Education A mechanical engineer from the University of Pune with 65.2%. Certifications Following are the certifications that I possess and can share if required. Cloud Technologies ​ AWS Cloud Practitioner - 2019 Computer languages ​ C - 2013 ​ C++ - 2014 CAD ​ CATIA V6 Mechanical Design - 2012 ​ CATIA V5 Part Design Essentials - 2013 ​ Pro-E Wildfire 5.0 - 2010",
     "url": "http://localhost:4000/education/",
     "relUrl": "/education/"
   },
   "8": {
     "id": "8",
-    "title": "Hitachi Vantara",
-    "content": "Hitachi Vantara, Pune About the Organization About the project Deliverables My job Roles and responsibilities",
-    "url": "http://localhost:4000/hitachi_vantara/",
-    "relUrl": "/hitachi_vantara/"
+    "title": "Professional experience",
+    "content": "PROFILE OVERVIEW • A seasoned technical writer and instructional designer with an experience of over 8.3 years in the software domain • A clear understanding of technical writing methods like structured authoring, topic-based authoring and minimalism, and instructional design methodology like ADDIE • A bachelor’s in mechanical engineering from Pune University, currently SPPU (65.2%-First Class, 2010) EXPERIENCED IN • Developing online-helps, tutorials, quick reference guides, installation guides, administration guides, API documentation and courses on software products • Writing clear, concise, and accurate technical information in simple English • Working on multiple projects simultaneously and managing respective deliverables • Working with multiple scrum teams and taking full responsibility of the technical writing tasks • Writing different product users like End-users, Administrators, and Consultants • Providing UI statements like error messages, warning messages • Writing API docs for SOAP and REST APIs • Interviewing the dev and the QA teams to extensively understand the product features • Authoring online help using Robohelp, Flare, and Typora (markdown tool) • Managing doc repo in Perforce, TFS and Git • Creating videos and simulations using Camtasia or Captivate to explain complex ideas • Capturing images in graphic tools like SnagIT and editing it to match the context • Planning and estimating efforts for technical writing tasks and distributing tasks among the team • Maintaining PDFs in an online portal and delivering regular updates to the portal • Resolving issue tickets(bugs) raised for documentation and getting it validated with the testing team • Working with the Marketing team to develop go-to-market documents",
+    "url": "http://localhost:4000/experience/",
+    "relUrl": "/experience/"
   },
   "9": {
     "id": "9",
-    "title": "Hobbies",
-    "content": "hobbies Music Sports Automobiles",
-    "url": "http://localhost:4000/hobbies/",
-    "relUrl": "/hobbies/"
+    "title": "Hitachi Vantara",
+    "content": "Hitachi Vantara About the Organization About the project Deliverables My job Roles and responsibilities",
+    "url": "http://localhost:4000/hitachi_vantara/",
+    "relUrl": "/hitachi_vantara/"
   },
   "10": {
     "id": "10",
-    "title": "Home",
-    "content": "Welcome to the profile of Arnab Ghosh Hello and welcome to the detailed curriculum vitae of Arnab Ghosh. This CV is built with Jekyll using Markdown files and hosted on Github pages. This site is built on using the Just-the-docs theme. How can you navigate on this site? You can choose to select an option from the Menu to read about the section that interests you. Or, search for keywords on the top to look for something specific.",
-    "url": "http://localhost:4000/",
-    "relUrl": "/"
+    "title": "Hobbies",
+    "content": "hobbies Music I am a huge metal and hard rock fan, with some inclination towards classic rock and blues. I am a guitarist, and have played on stage several time at many occasions. I play and acoustic guitar and like to cover Hindi and English rock and country songs. Apart from the playing I also have a hobby of collecting music hard copies. My collection includes albums from some Indian musicians to some international artists like Metallica, Tool, Eluveitie, etc. Sports I love playing table-tennis. I have represented my college in many inter-collegiate tournaments. Automobiles I am an automobile enthusiast who likes to be updated with the automotive market majorly of India. Whenever I find time, I like to take up odd car and motorcycle repair jobs. I wish to fabricate a chopper motorcycle entirely by myself someday.",
+    "url": "http://localhost:4000/hobbies/",
+    "relUrl": "/hobbies/"
   },
   "11": {
     "id": "11",
-    "title": "Neilsoft",
-    "content": "Neilsoft Limited, Pune About the Organization About the project Deliverables My job Roles and responsibilities",
-    "url": "http://localhost:4000/neilsoft/",
-    "relUrl": "/neilsoft/"
+    "title": "Home",
+    "content": "Welcome to the profile of Arnab Ghosh Hello and welcome to the detailed curriculum vitae of Arnab Ghosh. This CV is built with Jekyll using Markdown files and hosted on Github pages. This site is built on using the Just-the-docs theme. How can you navigate through this site? You can select an option from the Menu to read about the section. Or, in the Search bar, on top of this page, type in the skills, tool names, or keywords if you are looking for something specific.",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
   },
   "12": {
     "id": "12",
+    "title": "Neilsoft",
+    "content": "Neilsoft Limited About the Organization About the project Deliverables My job Roles and responsibilities · Creating project estimates after understanding project requirements · Acquiring customer queries and feedback and creating a guideline document that would solve their queries · Conducting meetings with customers to understand the deliverable scope and defining tasks accordingly · Planning for the future developments in documentation with the management team · Determining tasks for new releases and creating a project plan for the team · Allocating tasks to writers and translators, and guiding them · Interviewing SMEs to understand the product functionalities in detail · Implementing a technical writing process for documentation that complements the development process · Implementing Robohelp as an authoring tool and Perforce as SCM · Implementing the ADDIE model for course design in the tutorials · Analyzing the audience and planning workflow for the tutorials · Setting up a release by release plan for documentation and tutorials · Conducting peer review of the documentation and providing editorial and technical comments Tasks _in online help (CHM) files: · Migrating Fasthelp projects to Robohelp · Editing the translated German documentation · Updating current documentation with new features in the latest release · Creating HTML templates and CSS in Robohelp · Redefining TOC with the help of SMEs · Writing a topic by performing the workflow in CADISON · Capturing and editing images using SnagIT and PickPic Tasks in tutorials: · Creating MS Word templates for the Tutorials using the product logo corporate colours · Editing, developing and maintaining the tutorials for new releases · Creating a task-based tutorial with a workflow that allows the readers to create an entire project from scratch · Creating training PPTs which can be used as an Instructor Led Training (ILT) material Task in workbooks, guidelines, and quick reference guides: · Creating workbooks with only exercises and providing end data to readers for tallying their results · Creating guidelines that solve complex user queries about a module · Creating single page quick reference guides that work as an overview for a module Understanding the need of these documents from the Product Consultants and deciding the type of document required",
+    "url": "http://localhost:4000/neilsoft/",
+    "relUrl": "/neilsoft/"
+  },
+  "13": {
+    "id": "13",
     "title": "NICE Interactive",
-    "content": "Nice Interactive Systems, Pune About the Organization About the project Deliverables My job Roles and responsibilities",
+    "content": "Nice Interactive Systems About the Organization About the project Deliverables My job Roles and responsibilities",
     "url": "http://localhost:4000/NICE_Interactive/",
     "relUrl": "/NICE_Interactive/"
+  },
+  "14": {
+    "id": "14",
+    "title": "Things I would want to do",
+    "content": "Things that I would want to do Mechmonologues: CAD tutorials Mechanical Technical topics Motorcycle repair tutorials Monologues/ Gyaan Motorcycle Journeys About Mechmonologues About me (create a repo for uploading the section here) Github resume Put up the github resume Add a hire me page with the links to the templates Try to add this to the mechmonologues page. Ecommerce Online Platform for selling Bike spares Check from where you can get Dealership or look for a partner. Create a map of all the parts Give an option to add the parts from the map or table on the side AR App An AR App for repairing motorcycles. See how AR works See how to publish an app What are the benefits of publishing apps.",
+    "url": "http://localhost:4000/things%20to%20do/",
+    "relUrl": "/things to do/"
   }
   
 }

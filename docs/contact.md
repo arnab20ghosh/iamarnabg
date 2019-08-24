@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Contact me
-nav_order: 6
+nav_order: 7
 permalink: /contact/
 ---
 # Contact me
 
-Linkedin
+Linkedin:
 
-github
+github:
 
 blog: www.mechmonologues.com
 
