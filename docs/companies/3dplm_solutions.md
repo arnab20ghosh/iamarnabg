@@ -9,11 +9,21 @@ permalink: /3DPLM_solutions/
 
 ### ***About the Organization***
 
+3DPLM was a subsidiary of Dassault Systemmes, France until it was completely taken over by Dassault in the year 2017. Dassault Systemmes is the world's leading CAD and PLM software organization, which is a sister concern of Dassault Aviation which manufactures airplanes like Rafale and Mirage. 
+
+The Dassault in Pune, India, where I worked, is an R&D centre. As an R&D centre, it housed several teams like dev, QA, support, and tech-writing. 
+
 ### ***About the project***
+
+The project was called Learning Solutions. The Learning Solutions team was responsible for delivering courses on the latest releases of the products. 
 
 ### ***Deliverables***
 
+A typical deliverable here was a complete course with all the updates of the release. 
+
 ### ***My job***
+
+My job here was to update the courses for its respective release and assuring the technical correctness of the course as well. I also worked on some certification projects where we delivered a questionnaire that would be used in the product certification examinations. 
 
 ### ***Roles and responsibilities***
 

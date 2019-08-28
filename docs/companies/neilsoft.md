@@ -9,7 +9,11 @@ permalink: /neilsoft/
 
 ### ***About the Organization***
 
+Neilsoft is a project based organization that majorly works on engineering services projects. It is based in Pune and has offices all over the globe. 
+
 ### ***About the project***
+
+Like I mentioned earlier, Neilsoft is a project based organization, but it taken over a German company called ITandFactory which has a plant design product called CADISON. 
 
 ### ***Deliverables***
 
