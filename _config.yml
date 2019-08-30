@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is a curriculum vitae of Arnab Ghosh. Generally writing all explicit details for a project in a resume gets too lengthy.
   The idea is to write a short overview of the projects in the resume, and have this site as a detailed book for all the things.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arnab20ghosh.github.io/iamarnabg/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arnab20ghosh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  arnab20ghosh
 
