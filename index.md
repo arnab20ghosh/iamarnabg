@@ -6,7 +6,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to the profile of Arnab Ghosh
+# Greetings!
 
 Hello and welcome to the detailed curriculum vitae of Arnab Ghosh.
 This CV is built with **Jekyll** using **Markdown** files and hosted on **Github** pages.<b>

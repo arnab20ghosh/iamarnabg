@@ -6,10 +6,11 @@ permalink: /contact/
 ---
 # Contact me
 
-Linkedin:
+| Communication channel |                                           |
+| --------------------- | ----------------------------------------- |
+| github                | https://github.com/arnab20ghosh           |
+| blog                  | https://mechmonologues.wordpress.com      |
+| facebook              | https://www.facebook.com/arnab20ghosh     |
+| LinkedIn              | https://www.linkedin.com/in/arnab20ghosh/ |
+| Email                 | arnab20ghosh@gmail.com                    |
 
-github:
-
-blog: www.mechmonologues.com
-
-facebook:www.facebook.com/arnab20ghosh
