@@ -44,9 +44,15 @@ permalink: /things to do/
 ### AR App
 
 - [ ] An AR App for repairing motorcycles.
-
 - [ ] See how AR works
-
 - [ ] See how to publish an app
-
 - [ ] What are the benefits of publishing apps.
+
+Electric motorcycle
+
+- EM with gear box.
+- study how EM works.
+- Study how EM uses energy
+- study how batter is charged
+- study how batteries are stored
+- study the market and requirement of the product
