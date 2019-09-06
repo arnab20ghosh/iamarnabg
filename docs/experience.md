@@ -4,42 +4,44 @@ title: Professional experience
 nav_order: 2
 permalink: /experience/
 ---
-### PROFILE OVERVIEW
-•	A seasoned technical writer and instructional designer with an experience of over 8.3 years in the software domain
+# Professional Experience
 
-•	A clear understanding of technical writing methods like structured authoring, topic-based authoring and minimalism, and instructional design methodology like ADDIE
+### **Writing skills**
 
-•	A bachelor’s in mechanical engineering from Pune University, currently SPPU (65.2%-First Class, 2010)
+- A seasoned technical writer with a rich experience of over 8+ years in the software domain. 
+- Developed help docs, API docs, tutorials, system admin docs, quick reference guides, and installation guides for a wide range of end users. 
+- Well-equipped with language skills adhering to standards like Microsoft Styles. 
+- Helped dev teams to effectively communicate to its users through UI statements and terminologies, error messages, and warning messages.
+- Worked in a doc-as-a-code environment in a close collaboration with the dev team.
+- Worked in both waterfall and agile models in software development. 
 
-### EXPERIENCED IN
-•	Developing online-helps, tutorials, quick reference guides, installation guides, administration guides, API documentation and courses on software products
+### **Instructional design skills**
 
-•	Writing clear, concise, and accurate technical information in simple English
+- Worked as an instructional designer for over 3.5 years in the mechanical CAD software domain. 
+- Developed courses, training videos, software simulations, and assessment quizzes. 
+- Followed instructional design methodologies like ADDIE and  Gagne's 9 events to develop effective training solutions. 
 
-•	Working on multiple projects simultaneously and managing respective deliverables
+### **Domain knowledge** 
 
-•	Working with multiple scrum teams and taking full responsibility of the technical writing tasks
+- Developed help-docs for high-tech software domains like cloud computing, robotic process automation, mechanical CAD and PLM. 
+- Never afraid to take up any new and challenging domain.
+- Ability to learn quickly and deliver. 
 
-•	Writing different product users like End-users, Administrators, and Consultants
+### **Team Lead, and Project Management**
 
-•	Providing UI statements like error messages, warning messages
+- Lead a team of technical writers and a translator. 
+- Maintained help-docs repositories and provided timely updates to shareholders.
+- Created project plan and ensured it timely completion.
+- Developed a plan for future enhancements in documentation. 
+- Implemented DDLC to fit with SDLC for a new doc project.
 
-•	Writing API docs for SOAP and REST APIs
+### **Contributions as an individual contributor**
 
-•	Interviewing the dev and the QA teams to extensively understand the product features
+- Worked with multiple scrum team and managed respective deliverables.
+- Attended scrums, grooming sessions, and planning sessions to stay updated with the latest project status and planning. 
+- Created and maintained tickets on JIRA and TFS for technical writing tasks. 
 
-•	Authoring online help using Robohelp, Flare, and Typora (markdown tool)
 
-•	Managing doc repo in Perforce, TFS and Git
 
-•	Creating videos and simulations using Camtasia or Captivate to explain complex ideas
 
-•	Capturing images in graphic tools like SnagIT and editing it to match the context
 
-•	Planning and estimating efforts for technical writing tasks and distributing tasks among the team
-
-•	Maintaining PDFs in an online portal and delivering regular updates to the portal
-
-•	Resolving issue tickets(bugs) raised for documentation and getting it validated with the testing team
-
-•	Working with the Marketing team to develop go-to-market documents

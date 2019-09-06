@@ -6,7 +6,7 @@ permalink: /hobbies/
 ---
 # hobbies
 
-### ***Music***
+### **Music**
 
 I am a huge metal and hard rock fan, with some inclination towards classic rock and blues.
 
@@ -16,13 +16,13 @@ Apart from the playing I also have a hobby of collecting music hard copies.
 
 My collection includes albums from some Indian musicians to some international artists like Metallica, Tool, Eluveitie, etc.  
 
-### ***Sports***
+### **Sports**
 
 I love playing table-tennis. I have represented my college in many inter-collegiate tournaments.
 
-### ***Automobiles***
+### **Automobiles**
 
-I am an automobile enthusiast who likes to be updated with the automotive market majorly of India.
+I am an automobile enthusiast who likes to stay updated with the automotive market, majorly of India.
 
 Whenever I find time, I like to take up odd car and motorcycle repair jobs.
 

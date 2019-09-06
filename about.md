@@ -6,9 +6,9 @@ permalink: /about/
 ---
 # About me
 
-*Hello and welcome,*
+### Hello and welcome,
 
-  My name is Arnab Ghosh, I am a mechanical engineer by education and a technical writer by profession. I would not say that I chose technical writing because I had a huge passion for writing, but this is something that I was offered and I chose it without any hesitation. Eventually, I realized that I quite enjoyed being in the end-user perspective of every product, also I was helping every user of any product to use the product. Imagine, you are given a machine without any instructions on how to use it, or very basic, what it actually does. Does not sound good, right? I am helping companies deliver a complete product. I liked that. 
+  My name is Arnab Ghosh, a mechanical engineer by education and a technical writer by profession. I would not say, I chose technical writing because of a huge passion for writing, but this is something that I was offered and I chose it without any hesitation. Eventually, I realized that I quite enjoyed being in the end-user perspective of every product, also I was helping every user of any product to use the product. Imagine, you are given a machine without any instructions on how to use it, or very basic, what it actually does. Does not sound good, right? I am helping companies deliver a complete product. I liked that. 
 
  Let me give you a brief about my professional journey.
 
@@ -33,7 +33,7 @@ To know more about the organizations that I worked for, Organizations.
 
 To see roles that I played, see Roles and responsibilities.
 
-### *My objective, or goal*
+### My objective, or goal
 
 Ineffective communication has always been a sore to my eyes, and I cannot stand it. In all the projects that I have done, my objective has been to put myself in the user's shoe and try to perform the tasks that I am writing. If I succeed in completing a task then I am doing a good job, otherwise the topic needs to be relooked.
 

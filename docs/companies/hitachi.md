@@ -13,7 +13,7 @@ permalink: /hitachi_vantara/
 
 ### ***About the Organization***
 
-Hitachi Vantara is the rebranding Hitachi Data Systems. Hitachi i
+Hitachi Vantara is the rebranding Hitachi Data Systems. The hitachi office that I work for here in Pune is formed after taking over a start-up called REAN Cloud. This move was strategic for  Hitachi to enter in the cloud computing domain. 
 
 For more information, see https://www.hitachivantara.com/en-in/services/cloud-services/cloud-migration-services.html
 
@@ -24,3 +24,4 @@ For more information, see https://www.hitachivantara.com/en-in/services/cloud-se
 ### ***My job***
 
 ### ***Roles and responsibilities***
+

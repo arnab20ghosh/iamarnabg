@@ -43,44 +43,26 @@ Like I mentioned earlier, Neilsoft is a project based organization, but it taken
 - Setting up a release by release plan for documentation and tutorials
 - Conducting peer review of the documentation and providing editorial and technical comments
 
+#### **Tasks in online help (CHM) files:**
 
+- Migrating Fasthelp projects to Robohelp
+- Editing the translated German documentation
+- Updating current documentation with new features in the latest release
+- Creating HTML templates and CSS in Robohelp
+- Redefining TOC with the help of SMEs
+- Writing a topic by performing the workflow in CADISON
+- Capturing and editing images using SnagIT and PickPic
 
-**Tasks _in online help (CHM) files:**
+#### **Tasks in tutorials**:
 
-·         Migrating Fasthelp projects to Robohelp
+- Creating MS Word templates for the Tutorials using the product logo corporate colours
+- Editing, developing and maintaining the tutorials for new releases
+- Creating a task-based tutorial with a workflow that allows the readers to create an entire project from scratch
+- Creating training PPTs which can be used as an Instructor Led Training (ILT) material
 
-·         Editing the translated German documentation
+#### **Task in workbooks, guidelines, and quick reference guides:**
 
-·         Updating current documentation with new features in the latest release
-
-·         Creating HTML templates and CSS in Robohelp
-
-·         Redefining TOC with the help of SMEs
-
-·         Writing a topic by performing the workflow in CADISON
-
-·         Capturing and editing images using SnagIT and PickPic
-
-
-
-**Tasks in tutorials**:
-
-·         Creating MS Word templates for the Tutorials using the product logo corporate colours
-
-·         Editing, developing and maintaining the tutorials for new releases
-
-·         Creating a task-based tutorial with a workflow that allows the readers to create an entire project from scratch
-
-·         Creating training PPTs which can be used as an Instructor Led Training (ILT) material
-
-
-
-**Task in workbooks, guidelines, and quick reference guides:**
-
-·         Creating workbooks with only exercises and providing end data to readers for tallying their results
-
-·         Creating guidelines that solve complex user queries about a module
-
-·         Creating single page quick reference guides that work as an overview for a module
-
-Understanding the need of these documents from the Product Consultants and deciding the type of document required
+- Creating workbooks with only exercises and providing end data to readers for tallying their results
+- Creating guidelines that solve complex user queries about a module
+- Creating single page quick reference guides that work as an overview for a module
+- Understanding the need of these documents from the Product Consultants and deciding the type of document required

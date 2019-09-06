@@ -6,26 +6,25 @@ permalink: /education/
 ---
 # Education and Certifications
 
-### ***Education***
+### **Education**
 
-A mechanical engineer from the University of Pune with 65.2% - 2010.
+Mechanical engineer from the University of Pune (now SPPU) with 65.2% - 2010.
 
-### ***Certifications***
+### **Certifications**
 
 Following are the certifications that I possess and can share details if required.
 
-### ***Cloud Technologies***
+#### **Cloud Technologies**
 
-​		AWS Cloud Practitioner - 2019
+- AWS Cloud Practitioner - 2019
 
-### ***Computer languages***
+#### **Computer languages**
 
-​		C - 2013
+- C - 2013
+- C++ - 2014
 
-​		C++ - 2014
+#### **CAD**
 
-### ***CAD***
-
-​		CATIA V6 Mechanical Design  - 2012
-​		CATIA V5 Part Design Essentials  - 2013
-​		Pro-E Wildfire 5.0 - 2010
+- CATIA V6 Mechanical Design  - 2012
+- CATIA V5 Part Design Essentials  - 2013
+- Pro-E Wildfire 5.0 - 2010
