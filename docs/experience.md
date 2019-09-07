@@ -14,28 +14,32 @@ permalink: /experience/
 - Helped dev teams to effectively communicate to its users through UI statements and terminologies, error messages, and warning messages.
 - Worked in a doc-as-a-code environment in a close collaboration with the dev team.
 - Worked in both waterfall and agile models in software development. 
+- Authored API docs for REST and SOAP APIs.
 
 ### **Instructional design skills**
 
 - Worked as an instructional designer for over 3.5 years in the mechanical CAD software domain. 
 - Developed courses, training videos, software simulations, and assessment quizzes. 
 - Followed instructional design methodologies like ADDIE and  Gagne's 9 events to develop effective training solutions. 
+- Created interactive videos using Camtasia and Captivate.
+- Used Captivate to create simulations for exercises.
+- Defined course objectives and designed course structure.
+- Storyboarded entire courses to meet its objectives.
 
 ### **Domain knowledge** 
 
 - Developed help-docs for high-tech software domains like cloud computing, robotic process automation, mechanical CAD and PLM. 
+- Completed AWS Cloud Practitioner certification.
 - Never afraid to take up any new and challenging domain.
-- Ability to learn quickly and deliver. 
+- Ability to learn quickly and deliver.
 
 ### **Team Lead, and Project Management**
 
 - Lead a team of technical writers and a translator. 
 - Maintained help-docs repositories and provided timely updates to shareholders.
 - Created project plan and ensured it timely completion.
-- Developed a plan for future enhancements in documentation. 
-- Implemented DDLC to fit with SDLC for a new doc project.
 
-### **Contributions as an individual contributor**
+### **Individual Contributor**
 
 - Worked with multiple scrum team and managed respective deliverables.
 - Attended scrums, grooming sessions, and planning sessions to stay updated with the latest project status and planning. 

@@ -21,11 +21,20 @@ For more about the company, see https://www.neilsoft.com/.
 
 ### ***About the project***
 
-Like I mentioned earlier, Neilsoft is a project based organization, but it taken over a German company called ITandFactory which has a plant design product called CADISON.
+Like I have mentioned earlier, Neilsoft is a project based organization, but it taken over a German company called ITandFactory which has a plant design product called CADISON. The project was about maintaining all aspects of the documentation for the product. 
 
 ### ***Deliverables***
 
+Deliverables included:
+
+- Online help: CHM files.
+- Tutorials: PDF
+- Workbooks: 
+- Quick reference guides:
+
 ### ***My job***
+
+I was hired as the first technical writer and courseware writer in the team. My duties in the initial days included migrating the existing documentation in a user friendly authoring tools. So, we chose RoboHelp to author the projects as the unit files in previous tools were in HTML. The next job was to set up a documentation process that would complement the existing development process to ensure the documentation was complete before the release. The regular tasks included updating the all documentation deliverable as per the new release, and also maintaining the documentation repo. 
 
 ### ***Roles and responsibilities***
 
