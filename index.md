@@ -19,7 +19,7 @@ You can select an option from the **Menu** to read about the particular section.
 
 <b>
 
-![](/images/Menu.PNG)
+![](.\images\Menu.PNG)
 
 <b>
 
