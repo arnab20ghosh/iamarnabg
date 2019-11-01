@@ -13,7 +13,7 @@ This CV is built with **Jekyll** using **Markdown** files and hosted on **Github
 
 This site is built using the [Just-the-docs](https://github.com/pmarsceill/just-the-docs) theme.  
 
-### _How can you navigate through this site?_
+### _How to navigate through this site?_
 
 You can select an option from the **Menu** to read about the particular section.
 
