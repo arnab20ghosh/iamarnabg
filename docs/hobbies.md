@@ -10,7 +10,7 @@ permalink: /hobbies/
 
 I am a huge metal and hard rock fan, with some inclination towards classic rock and blues.
 
-I am a guitarist, and have played on stage several time at many occasions. I play and acoustic guitar and like to cover Hindi and English rock and country songs.
+I am a guitarist, and have played on stage several time at many occasions. I play and acoustic guitar and like to cover Hindi and English, rock and country songs.
 
 Apart from the playing I also have a hobby of collecting music hard copies.
 

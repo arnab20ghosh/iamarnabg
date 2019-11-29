@@ -29,6 +29,7 @@ My deliverables included:
 - Installation or Deployment documents
 - UI terminologies
 - UI text, error messages, warning messages
+- Rebranding of the help website
 
 ### ***My job***
 
