@@ -36,9 +36,9 @@ And all plans were shattered after our lead technical writer quit the company. I
 
 So, this is a gist of how my experience sounds, thank you for giving your valuable time to read it. If you just scraped through, no worries you have not missed anything, just click the links to individual topics in the table of contents (TOC).
 
-To know more about the organizations that have I worked for, see [Organizations](docs\companies\companies.md).
+To know more about the organizations that have I worked for, see [Organizations](docs/companies/companies.md).
 
-To see roles that I have played, see  [Professional Experience](docs\experience.md) 
+To see roles that I have played, see  [Professional Experience](docs/experience.md) 
 
 ### My objective, or goal
 
