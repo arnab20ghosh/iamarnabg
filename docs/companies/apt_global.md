@@ -25,7 +25,7 @@ The project that I was assigned for was for an institute called RRCAT, Indore. W
 
 ### ***Deliverables***
 
-Following were the deliverables of the projects at different stages.
+The following were the deliverables of the projects at different stages.
 
 - CAD Models
 - CAD 2D Drafting
@@ -36,7 +36,7 @@ Following were the deliverables of the projects at different stages.
 
 ### ***My job***
 
-I worked as an engineer in the firm. I was responsible for all the phases the project went through. The stages include: designing, drafting, material ordering, vendor development for manufacturing, QA of the manufactured parts, overseeing fabrication, and commissioning.  
+I worked as an engineer at the firm. I was responsible for all the phases the project went through. The stages include designing, drafting, material ordering, vendor development for manufacturing, QA of the manufactured parts, overseeing fabrication, and commissioning.  
 
 ### ***Roles and responsibilities***
 

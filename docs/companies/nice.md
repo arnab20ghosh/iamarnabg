@@ -16,7 +16,7 @@ Nice Interactive System is an IT organization based in Ra'anana, Israel. The com
 
 ### ***About the project***
 
-My project here was to document about an Robotics Process Automation (RPA) product called Advanced Process Automation (APA). APA is only of the leading RPA products with an unique feature of attended automation, that allows you to implement automation on a customer service agent machine. The project was about maintaining and updating documentation for APA with new and upcoming releases. 
+My project here was to document a Robotics Process Automation (RPA) product called Advanced Process Automation (APA). APA is only of the leading RPA products with a unique feature of attended automation, that allows you to implement automation on a customer service agent machine. The project was about maintaining and updating documentation for APA with new and upcoming releases. 
 
 ### ***Deliverables***
 
@@ -29,7 +29,7 @@ My deliverables included:
 
 ### ***My job***
 
-My job here was majorly updating the documentation for the new releases. Along with this, I reviewed the UI statements like error messages and warning messages. I also documented REST and SOAP APIs that were exposed for the customers. I attended planning meetings and regular scrum meetings to stay updated with the development, define scope of technical writing work. 
+My job here was majorly updating the documentation for the new releases. Along with this, I reviewed the UI statements like error messages and warning messages. I also documented REST and SOAP APIs that were exposed to the customers. I attended planning meetings and regular scrum meetings to stay updated with the development, define the scope of technical writing work. 
 
 ### ***Roles and responsibilities***
 
@@ -40,8 +40,8 @@ My job here was majorly updating the documentation for the new releases. Along w
 - Attending scrum stand-ups and grooming meetings to be up to date with the PBI status.
 - Creating technical writing tasks in JIRA.
 - Maintaining repositories on Git, and using Typora for authoring.
-- Taking responsibility of all technical writing tasks in the scrum teams.
-- Helping development team with the API, Audit, and Log messages.
+- Taking responsibility for all technical writing tasks in the scrum teams.
+- Helping the development team with the API, Audit, and Log messages.
 - Reviewing the UI terminologies and messages delivered by the UX team.
 - Ensuring documentation is complete by the end of every sprint.
 

@@ -15,7 +15,7 @@ permalink: /3DPLM_solutions/
 
 3DPLM was a subsidiary of Dassault Systemmes, France until it was completely taken over by Dassault in the year 2017. Dassault Systemmes is the world's leading CAD and PLM software organization, which is a sister concern of Dassault Aviation, which manufactures airplanes like Rafale and Mirage.
 
-The Dassault centre in Pune, India, where I worked, is an R&D centre. As an R&D centre, it housed several teams like dev, QA, support, and tech-writing. I was part of the Learning Solutions team.
+The Dassault center in Pune, India, where I worked, is an R&D center. As an R&D center, it housed several teams like dev, QA, support, and tech-writing. I was part of the Learning Solutions team.
 
 For more information, see https://academy.3ds.com/en.
 
@@ -25,7 +25,7 @@ The project was called Learning Solutions. The Learning Solutions team was respo
 
 ### ***Deliverables***
 
-A typical deliverable here was a complete course with all the updates of the release. Also, as a part of the Dassault University, we were also responsible to create questions for product certifications.
+A typical deliverable here was a complete course with all the updates of the release. Also, as a part of  Dassault University, we were also responsible to create questions for product certifications.
 
 ### ***My job***
 
@@ -36,11 +36,11 @@ My job here was to update the courses for its respective release and assure the 
 - Interviewing SMEs to understand a new workbench and its workflow
 - Creating courses for international audiences from different geographies
 - Defining the course objectives with the help of SME
-- Updating old courses with new highlight of the latest release
+- Updating old courses with new highlights of the latest release
 - Creating intuitive and attractive PPTs for a better learning experience
-- Storyboarding a course (Creating a TOC with a summary of content on each slide)
-- Developing courses for multiple delivery format like ILT, CBT and WBT
-- Writing courses that comply to the Dassault writing standards (like MSTP)
+- Storyboarding a course (Creating a TOC with a summary of the content on each slide)
+- Developing courses for multiple delivery formats like ILT, CBT, and WBT
+- Writing courses that comply with the Dassault writing standards (like MSTP)
 - Creating videos and simulations using Camtasia and Captivate
 - Developing courses that adhere to the ADDIE model of Instructional Design
 - Designing exercises for learning reinforcement

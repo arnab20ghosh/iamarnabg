@@ -7,7 +7,7 @@ permalink: /experience/
 # Professional Experience
 ## TECHNICAL WRITING SKILLS
 - A seasoned technical writer with a rich experience of over 8 years in the software domain.
-- Developed help docs, API docs, tutorials, system admin docs, quick reference guides, and installation guides for a wide range of end users.
+- Developed help docs, API docs, tutorials, system admin docs, quick reference guides, and installation guides for a wide range of end-users.
 - Well-equipped with language skills, and accustomed to writing in standards like Microsoft Styles.
 - Contributed to UX writing by providing UI statements, UI terminologies, error messages, and warning messages.
 - Worked in a doc-as-a-code environment by closely collaborating with multiple scrum teams.
@@ -37,9 +37,9 @@ permalink: /experience/
 ## TEAM LEAD AND PROJECT MANAGEMENT
 - Led a team of technical writers and a translator.
 - Maintained help-docs repositories and provided prompt updates to shareholders.
-- Created project plan and ensured its timely completion.
+- Created a project plan and ensured its timely completion.
 
-## INDIVIDUAL CONTRIBUTER
-- Worked with multiple scrum team and managed respective deliverables.
+## INDIVIDUAL CONTRIBUTOR
+- Worked with multiple scrum teams and managed respective deliverables.
 - Attended scrums, grooming sessions, and planning sessions to stay updated with the latest project status and planning.
 - Created and maintained tickets on JIRA and TFS for technical writing tasks.

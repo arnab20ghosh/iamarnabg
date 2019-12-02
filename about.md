@@ -38,7 +38,7 @@ So, this is a gist of how my experience sounds, thank you for giving your valuab
 
 To know more about the organizations that have I worked for, see [Organizations](../docs/companies/companies.md).
 
-To see roles that I have played, see  [Professional Experience](../docs/experience.md) 
+To see roles that I have played, see [Professional Experience](../docs/experience.md).
 
 ### My objective, or goal
 
