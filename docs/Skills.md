@@ -16,6 +16,7 @@ Following are the tools that I have used and gather experience over the period i
 | Madcap Flare               | - Used it for 1.5 years.<br />- Delivered PDF files and webhelp. |
 | Typora (Markdown)          | - Using it currently, have been using it for more than a month.<br />- Using it in the GitHub documentation project. |
 | Atom (Markdown Project)    | - Using it currently for handling GitHub documentation project. |
+| Confluence Wiki            | - Using it for maintaining internal documentation.           |
 
 | Graphic Tool               | Extent of use                                                |
 | ---------------------------| ------------------------------------------------------------ |

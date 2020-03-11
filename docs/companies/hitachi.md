@@ -46,4 +46,5 @@ My job here is to update the documentation with the latest release of every acce
 - Helping the development team with the API, Audit, and Log messages.
 - Reviewing the UI terminologies and messages delivered by the UX team.
 - Ensuring documentation is complete by the end of every sprint.
+- Reviewing the documentation developed by the technical teams. 
 
